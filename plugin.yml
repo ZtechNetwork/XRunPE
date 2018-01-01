@@ -1,0 +1,10 @@
+name: XRunPE
+main: ZtechNetwork\XRunPE
+api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 4.0.0-ALPHA1]
+version: 1.0.0.0
+author: ZtechNetwork[LeronDoesGM]
+
+commands:
+      xr:
+        usage: /xr <quit/create>
+        description: Main Command for creating XRun games and leaving the game.
