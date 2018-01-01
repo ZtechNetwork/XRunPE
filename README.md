@@ -1,6 +1,6 @@
 # XRunPE by [LeronDoesGaming](https://www.github.com/LeronDoesGM)
 
-Library status: [![Poggit-CI](https://poggit.pmmp.io/ci.badge/LeronDoesGM/XRunPE/XRunPE)](https://poggit.pmmp.io/ci/LeronDoesGM/XRunPE/XRunPE)
+Library status: [![Poggit-CI](https://poggit.pmmp.io/ci.badge/ZtechNetwork/XRunPE/XRunPE)](https://poggit.pmmp.io/ci/ZtechNetwork/XRunPE/XRunPE)
 
 #### Current Version:
 v1.0.0.0
