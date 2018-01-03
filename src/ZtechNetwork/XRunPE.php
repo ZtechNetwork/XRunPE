@@ -28,7 +28,7 @@ use pocketmine\level\Position;
 
 class XRunPE extends PluginBase implements Listener {
 	
-	const NAME = "XRunPE";
+	const NAME = "XRun PE";
 	const CODENAME = "[BETA]";
 	const VERSION = "1.0.0.0";
 	const XRUN_API = "1.0.0";
