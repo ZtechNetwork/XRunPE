@@ -1,8 +1,8 @@
 name: XRunPE
 main: ZtechNetwork\XRunPE
-api: [3.0.0-ALPHA9, 3.0.0-ALPHA10, 4.0.0-ALPHA1]
+api: [1.10.0-BETA]
 version: 1.0.0.0
-author: ZtechNetwork[LeronDoesGM]
+author: ZtechNetwork [LeronDoesGaming]
 
 commands:
       xr:
